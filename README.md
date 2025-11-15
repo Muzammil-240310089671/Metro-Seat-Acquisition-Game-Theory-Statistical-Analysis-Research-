@@ -18,7 +18,7 @@ We analyzed 3,600 passenger journeys to find the best metro seat strategy. Since
 -  **Stand at platform center** - Board middle carriages (3-4) which are least occupied
 -  **Stay calm** - Rushing doesn't improve your seat chances
 -  **Avoid extreme peak** - 90% crowding = only 10% seat success rate
--  **Chennai Central evening** - Wait 15 minutes for next train instead
+-  **Chennai Central evening** - Wait 6 minutes for next train instead
 -  **Watch for departure cues** - People picking up bags are about to leave
 
 **Bottom line:** Position yourself strategically, board calmly, and time your travel right. These simple changes can save you 5+ hours of standing per month.
