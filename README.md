@@ -7,7 +7,8 @@
 
 This repository contains a comprehensive game-theoretic and behavioral model for optimizing metro seat acquisition during peak hours. Using synthetic data calibrated to Chennai Metro Rail (CMRL) statistics, we compute Nash equilibrium strategies and provide evidence-based recommendations for commuters and metro operators.
 
-**Key Findings:**
+##Key Findings
+
 We analyzed 3,600 passenger journeys to find the best metro seat strategy. Since Chennai Metro stations have entrances at both ends, passengers cluster near entry points, making middle carriages less crowded.
 
 What Works:
