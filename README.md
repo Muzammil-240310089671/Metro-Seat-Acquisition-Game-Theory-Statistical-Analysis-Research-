@@ -23,6 +23,26 @@ This repository contains a comprehensive game-theoretic and behavioral model for
 
 ## Quick Start
 
-### Installation
+### For Researchers & Students
+
+**View the Research:**
+
+1. **Read the full report** (no installation needed):
+   - Go to `docs/metro-research-final.md`
+   - GitHub renders it automatically with formatting
+
+2. **See the equations**:
+   - Go to `equations/updated_equations_behavioral.md`
+   - Contains all mathematical formulations
+
+3. **View the results**:
+   - Open `data/nash_equilibrium_strategies.csv` in Excel
+   - See optimal strategies for all stations and crowding levels
+
+
+
+
+
+
 
 
