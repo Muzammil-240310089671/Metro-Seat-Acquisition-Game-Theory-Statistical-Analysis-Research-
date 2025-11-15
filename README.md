@@ -12,10 +12,13 @@ This repository contains a comprehensive game-theoretic and behavioral model for
 We analyzed 3,600 passenger journeys to find the best metro seat strategy. Since Chennai Metro stations have entrances at both ends, passengers cluster near entry points, making middle carriages less crowded.
 
 What Works:
-Stand at platform center - Board middle carriages (3-4) which are least occupied
-Stay calm - Rushing doesn't improve your seat chances
-Avoid extreme peak - 90% crowding = only 10% seat success rate
-Chennai Central evening - Wait 15 minutes for next train instead
+1)Stand at platform center - Board middle carriages (3-4) which are least occupied.
+
+2)Stay calm - Rushing doesn't improve your seat chances.
+
+3)Avoid extreme peak - 90% crowding = only 10% seat success rate.
+
+4)Chennai Central evening - Wait 15 minutes for next train instead.
 
 Watch for departure cues - People picking up bags are about to leave
 
