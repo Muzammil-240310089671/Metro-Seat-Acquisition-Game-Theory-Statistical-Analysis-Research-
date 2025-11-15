@@ -1,0 +1,7 @@
+__pycache__/          # Python cache files (auto-generated, not needed)
+*.pyc                 # Compiled Python files
+.venv/                # Virtual environment folder (too large)
+.ipynb_checkpoints    # Jupyter autosave files
+*.aux, *.log          # LaTeX temporary files
+.DS_Store             # Mac system file
+.vscode/              # VS Code settings (personal preference)
