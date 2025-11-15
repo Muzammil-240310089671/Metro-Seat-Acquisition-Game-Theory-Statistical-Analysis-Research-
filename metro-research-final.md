@@ -492,8 +492,7 @@ This framework provides:
 
 ### C. Contact & Collaboration
 For CMRL collaboration, policy implementation discussions, or further research:
-- [Research Institution Name]
-- [Contact Details]
+- mohamedmuzammilak@gmail.com
 - Datasets and code available under research partnership agreements
 
 ---
